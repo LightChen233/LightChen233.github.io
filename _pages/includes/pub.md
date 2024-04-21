@@ -2,12 +2,13 @@
  * @Author: Qiguang Chen
  * @LastEditors: Qiguang Chen
  * @Date: 2023-10-11 00:50:08
- * @LastEditTime: 2024-01-17 21:03:21
+ * @LastEditTime: 2024-04-21 19:40:32
  * @Description: 
  * 
 -->
 
 # 📝 Publications
+- ``IJCAI 2024`` [Decoupling breaks data barriers: A Decoupled Pre-training Framework for Multi-Intent Spoken Language Understanding](https://xxx), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
 - ``ICLR 2024`` [Tree-Planner: Efficient Close-loop Task Planning with Large Language Models](https://arxiv.org/abs/2310.08582), Mengkang Hu, Yao Mu, Xinmiao Yu, Mingyu Ding, Shiguang Wu, Wenqi Shao, **Qiguang Chen**, Bin Wang, Yu Qiao, Ping Luo.
 - ``EMNLP 2023`` <span style="color:red">(Oral)</span> [Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages](https://arxiv.org/abs/2310.14799), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
 - ``EMNLP 2023`` [End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions](https://arxiv.org/abs/2311.09008), Libo Qin, Wenbo Pan, **Qiguang Chen**, Lizi Liao, Zhou Yu, Yue Zhang, Wanxiang Che, Min Li.
