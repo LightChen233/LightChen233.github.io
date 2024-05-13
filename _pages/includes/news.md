@@ -2,7 +2,7 @@
  * @Author: Qiguang Chen
  * @LastEditors: Qiguang Chen
  * @Date: 2023-10-10 21:30:10
- * @LastEditTime: 2024-04-21 19:41:16
+ * @LastEditTime: 2024-05-13 11:37:02
  * @Description: 
  * 
 -->
@@ -16,7 +16,7 @@
 - *2023.07*: Our works ([CLIPText](https://aclanthology.org/2023.findings-acl.69/) and [MMSD2.0](https://aclanthology.org/2023.findings-acl.689/)) are accepted by ACL 2023 (Findings).
 - *2023.06*: 🎉 Luckily, I win an outstanding graduate of HIT!
 - *2022.10*: 🎉 Fortunately, I win the CCF Excellent College Students  Price!  
-- *2022.10*: 🎉 Our paper achieves achieve the **Best Paper** in EMNLP MMNLU2022 WorkShop.
+- *2022.10*: 🎉 Our paper achieves the **Best Paper** in EMNLP MMNLU2022 WorkShop.
 - *2022.09*: I formally join SCIR, HIT.
 - *2022.08*: 🎉 Our follow-up work on inconsistency in task-oriented dialogue systems is accepted by COLING2022. Thanks for co-authors from HIT, HKU, BUAA, CUMC!
 - *2022.08*: 🎉 More exciting, our team win the first price in [MMNLU-22 Competition](https://mmnlu-22.github.io/Competition/).
