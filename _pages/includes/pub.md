@@ -2,14 +2,20 @@
  * @Author: Qiguang Chen
  * @LastEditors: Qiguang Chen
  * @Date: 2023-10-11 00:50:08
- * @LastEditTime: 2024-04-21 19:40:32
+ * @LastEditTime: 2024-05-25 15:33:23
  * @Description: 
  * 
 -->
 
 # 📝 Publications
+- ``ACL 2024`` [M3CoT: A Novel Benchmark for
+Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://xxx), **Qiguang Chen**, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu, Wanxiang Che.
+- ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://arxiv.org/abs/2405.12819), Libo Qin, **Qiguang Chen**, Xiachong Feng, Yang Wu, Yongheng Zhang, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
+- ``Arxiv 2024`` [Multilingual large language model: A survey of resources, taxonomy and frontiers](https://arxiv.org/abs/2404.04925), Libo Qin\*, **Qiguang Chen**\*, Yuhang Zhou, Zhi Chen, Yinghui Li, Lizi Liao, Min Li, Wanxiang Che, Philip S. Yu.
 - ``IJCAI 2024`` [Decoupling breaks data barriers: A Decoupled Pre-training Framework for Multi-Intent Spoken Language Understanding](https://xxx), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
+- ``ICASSP 2024`` [LabCLIP: Label-Enhanced Clip for Improving Zero-Shot Text Classification](https://ieeexplore.ieee.org/abstract/document/10446865/), Yongheng Zhang, Peng Wang, **Qiguang Chen**, Jingxuan Zhou, Yongmei Wang, Min Li, Libo Qin.
 - ``ICLR 2024`` [Tree-Planner: Efficient Close-loop Task Planning with Large Language Models](https://arxiv.org/abs/2310.08582), Mengkang Hu, Yao Mu, Xinmiao Yu, Mingyu Ding, Shiguang Wu, Wenqi Shao, **Qiguang Chen**, Bin Wang, Yu Qiao, Ping Luo.
+- ``Arxiv 2024`` [A preliminary evaluation of chatgpt for zero-shot dialogue understanding](https://arxiv.org/abs/2304.04256), Wenbo Pan, **Qiguang Chen**, Xiao Xu, Wanxiang Che, Libo Qin.
 - ``EMNLP 2023`` <span style="color:red">(Oral)</span> [Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages](https://arxiv.org/abs/2310.14799), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
 - ``EMNLP 2023`` [End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions](https://arxiv.org/abs/2311.09008), Libo Qin, Wenbo Pan, **Qiguang Chen**, Lizi Liao, Zhou Yu, Yue Zhang, Wanxiang Che, Min Li.
 - ``CCL 2023`` [Through the Lens of Core Competency: Survey on Evaluation of Large Language Models](https://aclanthology.org/2023.ccl-2.pdf#page=93), Ziyu Zhuang, **Qiguang Chen**, Longxuan Ma, Mingda Li, Yi Han, Yushan Qian, Haopeng Bai, Weinan Zhang, Ting Liu.
