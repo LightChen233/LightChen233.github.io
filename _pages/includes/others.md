@@ -10,7 +10,9 @@
 - *2023.09 - Now*, Master, Harbin Institute of Technology, Harbin.
 - *2019.08 - 2023.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
-
+# 🤗 Community Services
+- `Reviewer` ACL 2024 ARR, EMNLP 2024 ARR, Neurips 2024.
+- `Community` MLNLP-2022 Outstanding Organizer.
 
 # 💻 Internships
 - *2022.06 - 2022.12*, Baidu, Beijing.
