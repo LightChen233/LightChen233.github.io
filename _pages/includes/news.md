@@ -2,7 +2,7 @@
  * @Author: Qiguang Chen
  * @LastEditors: Qiguang Chen
  * @Date: 2023-10-10 21:30:10
- * @LastEditTime: 2024-05-25 15:28:07
+ * @LastEditTime: 2024-05-26 22:47:34
  * @Description: 
  * 
 -->
@@ -16,6 +16,7 @@
 - *2023.07*: 🔥 We release unified SLU toolkit ([OpenSLU](https://aclanthology.org/2023.acl-demo.9/)), which is accepted by ACL 2023 (Demo).
 - *2023.07*: Our works ([CLIPText](https://aclanthology.org/2023.findings-acl.69/) and [MMSD2.0](https://aclanthology.org/2023.findings-acl.689/)) are accepted by ACL 2023 (Findings).
 - *2023.06*: 🎉 Luckily, I win an outstanding graduate of HIT!
+
 <!-- - *2022.10*: 🎉 Fortunately, I win the CCF Excellent College Students  Price!  
 - *2022.10*: 🎉 Our paper achieves the **Best Paper** in EMNLP MMNLU2022 WorkShop.
 - *2022.09*: I formally join SCIR, HIT.
