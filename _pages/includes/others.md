@@ -11,8 +11,10 @@
 - *2019.08 - 2023.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
 # 🤗 Community Services
-- `Reviewer` ACL 2024 ARR, EMNLP 2024 ARR, Neurips 2024.
+- `NLP Reviewer` ACL 2024 ARR, EMNLP 2024 ARR, NAACL 2024 ARR, NLPCC 2024.
+- `ML Reviewer` Neurips 2024, ICLR 2025.
 - `Community` MLNLP-2022 Outstanding Organizer.
 
 # 💻 Internships
+- *2024.07 - Now*, Shanghai AI Laboratory, Shanghai.
 - *2022.06 - 2022.12*, Baidu, Beijing.

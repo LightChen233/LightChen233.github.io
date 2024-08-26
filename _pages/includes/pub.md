@@ -8,11 +8,12 @@
 -->
 
 # 📝 Publications
-- ``ACL 2024`` [M3CoT: A Novel Benchmark for
-Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://xxx), **Qiguang Chen**, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu, Wanxiang Che.
+- ``ACL 2024`` <span style="color:red">(Oral)</span> [M3CoT: A Novel Benchmark for
+Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2024.acl-long.446.pdf), **Qiguang Chen**, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu, Wanxiang Che. <span style="color:gray"><i>(Overall Score: 4, 4, 4, 4)</i></span>
+- ``ACL 2024 (Findings)`` [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://aclanthology.org/2024.findings-acl.546.pdf), Yongheng Zhang\*, **Qiguang Chen**\*, Min Li, Wanxiang Che, Libo Qin.
 - ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://arxiv.org/abs/2405.12819), Libo Qin, **Qiguang Chen**, Xiachong Feng, Yang Wu, Yongheng Zhang, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
 - ``Arxiv 2024`` [Multilingual large language model: A survey of resources, taxonomy and frontiers](https://arxiv.org/abs/2404.04925), Libo Qin\*, **Qiguang Chen**\*, Yuhang Zhou, Zhi Chen, Yinghui Li, Lizi Liao, Min Li, Wanxiang Che, Philip S. Yu.
-- ``IJCAI 2024`` [Decoupling breaks data barriers: A Decoupled Pre-training Framework for Multi-Intent Spoken Language Understanding](https://xxx), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
+- ``IJCAI 2024`` [Decoupling breaks data barriers: A Decoupled Pre-training Framework for Multi-Intent Spoken Language Understanding](https://aclanthology.org/2024.findings-acl.546.pdf), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
 - ``ICASSP 2024`` [LabCLIP: Label-Enhanced Clip for Improving Zero-Shot Text Classification](https://ieeexplore.ieee.org/abstract/document/10446865/), Yongheng Zhang, Peng Wang, **Qiguang Chen**, Jingxuan Zhou, Yongmei Wang, Min Li, Libo Qin.
 - ``ICLR 2024`` [Tree-Planner: Efficient Close-loop Task Planning with Large Language Models](https://arxiv.org/abs/2310.08582), Mengkang Hu, Yao Mu, Xinmiao Yu, Mingyu Ding, Shiguang Wu, Wenqi Shao, **Qiguang Chen**, Bin Wang, Yu Qiao, Ping Luo.
 - ``Arxiv 2024`` [A preliminary evaluation of chatgpt for zero-shot dialogue understanding](https://arxiv.org/abs/2304.04256), Wenbo Pan, **Qiguang Chen**, Xiao Xu, Wanxiang Che, Libo Qin.

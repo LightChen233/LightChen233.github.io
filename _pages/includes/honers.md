@@ -8,6 +8,7 @@
 -->
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖️ Honors and Awards
+- Tencent Scholarship, 2024.
 - Graduate Special Scholarship, 2023.
 - Outstanding Graduates, 2023.
 - CCF Excellent College Students Price (Only 100 CS students in China were invited), 2022.

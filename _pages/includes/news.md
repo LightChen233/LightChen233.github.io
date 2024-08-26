@@ -7,10 +7,10 @@
  * 
 -->
 # 🔥 News
-- *2024.05*: 🎉 Our [M3CoT](https://xxx) is accepted by ACL 2024 and [Auto-CAP](https://xxx) is accepted by ACL 2024 (Findings).
-- *2024.04*: 🎉 Our [DPF](https://xxx) is accepted by IJCAI 2024.
+- *2024.05*: 🎉 Our [M3CoT](https://aclanthology.org/2024.acl-long.446.pdf) is accepted by ACL 2024 (Oral) and [Auto-CAP](https://aclanthology.org/2024.findings-acl.546.pdf) is accepted by ACL 2024 (Findings).
+- *2024.04*: 🎉 Our [DPF](https://www.ijcai.org/proceedings/2024/0715.pdf) is accepted by IJCAI 2024.
 - *2024.01*: 🎉 Our [Tree-Planner](https://arxiv.org/abs/2310.08582) are accepted by ICLR 2024.
-- *2023.10*: 🎉 Our [Cross-lingual Prompting](https://arxiv.org/abs/2310.14799) and [End-to-end Task-oriented Dialogue Survey](https://arxiv.org/abs/2311.09008) are accepted by EMNLP 2023.
+- *2023.10*: 🎉 Our [Cross-lingual Prompting](https://arxiv.org/abs/2310.14799) and [End-to-end Task-oriented Dialogue Survey](https://arxiv.org/abs/2311.09008) are accepted by EMNLP 2023 (Oral).
 - *2023.08*: 🎉Our [survey](https://aclanthology.org/2023.ccl-2.pdf#page=93) about LLM Competency is accepted by CCL 2023.
 - *2023.08*: 🔥 We release [HuoZi](https://github.com/HIT-SCIR/huozi) (⭐️100+)
 - *2023.07*: 🔥 We release unified SLU toolkit ([OpenSLU](https://aclanthology.org/2023.acl-demo.9/)), which is accepted by ACL 2023 (Demo).
