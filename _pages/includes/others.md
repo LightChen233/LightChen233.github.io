@@ -7,7 +7,7 @@
 	ZL 2021 1 0795247.7, 2022.09.09.
 
 # 📖 Educations
-- *2023.09 - Now*, Master, Harbin Institute of Technology, Harbin.
+- *2023.09 - Now*, PhD Candidate, Harbin Institute of Technology, Harbin.
 - *2019.08 - 2023.06*, Undergraduate, Harbin Institute of Technology, Harbin.
 
 # 🤗 Community Services
@@ -16,5 +16,5 @@
 - `Community` MLNLP-2022 Outstanding Organizer.
 
 # 💻 Internships
-- *2024.07 - Now*, Shanghai AI Laboratory, Shanghai.
+- *2024.07 - 2024.10*, Shanghai AI Laboratory, Shanghai.
 - *2022.06 - 2022.12*, Baidu, Beijing.
