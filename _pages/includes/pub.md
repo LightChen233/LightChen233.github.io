@@ -9,10 +9,11 @@
 
 # 📝 Publications
 ## 🎯 Chain-of-Thought & Reasoning
-- 🔥 ``NeurIPS 2024`` <span style="color:red">(Oral, Top 0.25% paper)</span> [Unlocking the Boundaries of Thought: A Reasoning Granularity Framework to Quantify and Optimize Chain-of-Thought](https://xxx), **Qiguang Chen**, Libo Qin, Jiaqi Wang, Jinxuan Zhou, Wanxiang Che. <span style="color:gray"><i>(Overall Score: 8, 7, 7, 7, 6)</i></span>
+- 🔥 ``NeurIPS 2024`` <span style="color:red">(Oral, Top 0.5% submitted paper, Top 1.8% accepted paper)</span> [Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought](https://arxiv.org/abs/2410.05695), **Qiguang Chen**, Libo Qin, Jiaqi Wang, Jinxuan Zhou, Wanxiang Che. <span style="color:gray"><i>(Overall Score: 8, 7, 7, 7, 6)</i></span>
 - 🔥 ``Arxiv 2024`` [What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices](https://arxiv.org/pdf/2409.01893), Zhi Chen\*, **Qiguang Chen**\*, Libo Qin, Qipeng Guo, Haijun Lv, Yicheng Zou, Wanxiang Che, Hang Yan, Kai Chen, Dahua Lin.
 - 🔥 ``Arxiv 2024`` [HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model](https://arxiv.org/pdf/2408.09559), Mengkang Hu, Tianxing Chen, Qiguang Chen, Yao Mu, Wenqi Shao, Ping Luo.
-- ``ACL 2024`` <span style="color:red">(Oral, Top 2.31% paper)</span> [M3CoT: A Novel Benchmark for
+- ``EMNLP 2024 (Findings)`` [Wrong-of-Thought: An Integrated Reasoning Framework with Multi-Perspective Verification and Wrong Information](https://arxiv.org/abs/2410.04463), Yongheng Zhang, **Qiguang Chen**, Jingxuan Zhou, Peng Wang, Jiasheng Si, Jin Wang, Wenpeng Lu, Libo Qin.
+- ``ACL 2024`` <span style="color:red">(Oral, Top 2.3% submitted paper)</span> [M3CoT: A Novel Benchmark for
 Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2024.acl-long.446.pdf), **Qiguang Chen**, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu, Wanxiang Che. <span style="color:gray"><i>(Overall Score: 4, 4, 4, 4)</i></span>
 - ``ACL 2024 (Findings)`` [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://aclanthology.org/2024.findings-acl.546.pdf), Yongheng Zhang\*, **Qiguang Chen**\*, Min Li, Wanxiang Che, Libo Qin.
 - ``ICLR 2024`` [Tree-Planner: Efficient Close-loop Task Planning with Large Language Models](https://arxiv.org/abs/2310.08582), Mengkang Hu, Yao Mu, Xinmiao Yu, Mingyu Ding, Shiguang Wu, Wenqi Shao, **Qiguang Chen**, Bin Wang, Yu Qiao, Ping Luo.
@@ -44,6 +45,7 @@ Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2
 - ``EMNLP 2021`` [Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System.](https://aclanthology.org/2021.emnlp-main.182.pdf), Libo Qin, Tianbao Xie, Shijue Huang, **Qiguang Chen**, Xiao Xu, Wanxiang Che.
 
 ## Others
+- 🔥 ``Arxiv 2024`` [In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks](https://arxiv.org/abs/2410.01548), Dingzirui Wang, Xuangliang Zhang, **Qiguang Chen**, Longxu Dou, Xiao Xu, Rongyu Cao, Yingwei Ma, Qingfu Zhu, Wanxiang Che, Binhua Li, Fei Huang, Yongbin Li.
 - ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://arxiv.org/abs/2405.12819), Libo Qin, **Qiguang Chen**, Xiachong Feng, Yang Wu, Yongheng Zhang, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
 - ``CCL 2023`` [Through the Lens of Core Competency: Survey on Evaluation of Large Language Models](https://aclanthology.org/2023.ccl-2.pdf#page=93), Ziyu Zhuang, **Qiguang Chen**, Longxuan Ma, Mingda Li, Yi Han, Yushan Qian, Haopeng Bai, Weinan Zhang, Ting Liu.
 
