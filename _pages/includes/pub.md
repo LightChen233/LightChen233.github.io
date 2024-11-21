@@ -31,12 +31,14 @@ Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2
 ## 🏳️‍🌈 Multilingual Modelling
 - ``ACL 2024 (Findings)`` [AutoCAP: Towards Automatic Cross-lingual Alignment Planning for Zero-shot Chain-of-Thought](https://aclanthology.org/2024.findings-acl.546.pdf), Yongheng Zhang\*, **Qiguang Chen**\*, Min Li, Wanxiang Che, Libo Qin.
 - ``Arxiv 2024`` [Multilingual large language model: A survey of resources, taxonomy and frontiers](https://arxiv.org/abs/2404.04925), Libo Qin\*, **Qiguang Chen**\*, Yuhang Zhou, Zhi Chen, Yinghui Li, Lizi Liao, Min Li, Wanxiang Che, Philip S. Yu.
-- ``IJCAI 2024`` [Decoupling breaks data barriers: A Decoupled Pre-training Framework for Multi-Intent Spoken Language Understanding](https://aclanthology.org/2024.findings-acl.546.pdf), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
-- ``Arxiv 2024`` [A preliminary evaluation of chatgpt for zero-shot dialogue understanding](https://arxiv.org/abs/2304.04256), Wenbo Pan, **Qiguang Chen**, Xiao Xu, Wanxiang Che, Libo Qin.
 - ``EMNLP 2023`` <span style="color:red">(Oral)</span> [Cross-lingual Prompting: Improving Zero-shot Chain-of-Thought Reasoning across Languages](https://arxiv.org/abs/2310.14799), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
+- ``EMNLP 2022 MMNLU`` <span style="color:red">(Best Paper)</span> [HIT-SCIR at MMNLU-22: Consistency Regularization for Multilingual Spoken Language Understanding](https://aclanthology.org/2022.mmnlu-1.4.pdf), Bo Zheng, Zhouyang Li, Fuxuan Wei, **Qiguang Chen**, Libo Qin, Wanxiang Che.
+- ``ACL 2022`` [GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language](https://aclanthology.org/2022.acl-long.191.pdf), Libo Qin, **Qiguang Chen**, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan.
 
 ## 🎙️ Dialogue System
 - ``Arxiv 2024`` [CroPrompt: Cross-task Interactive Prompting for Zero-shot Spoken Language Understanding](https://arxiv.org/pdf/2406.10505), Libo Qin, Fuxuan Wei, **Qiguang Chen**, Jingxuan Zhou, Shijue Huang, Jiasheng Si, Wenpeng Lu, Wanxiang Che.
+- ``IJCAI 2024`` [Decoupling breaks data barriers: A Decoupled Pre-training Framework for Multi-Intent Spoken Language Understanding](https://aclanthology.org/2024.findings-acl.546.pdf), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
+- ``Arxiv 2024`` [A preliminary evaluation of chatgpt for zero-shot dialogue understanding](https://arxiv.org/abs/2304.04256), Wenbo Pan, **Qiguang Chen**, Xiao Xu, Wanxiang Che, Libo Qin.
 - ``EMNLP 2023`` [End-to-end Task-oriented Dialogue: A Survey of Tasks, Methods, and Future Directions](https://arxiv.org/abs/2311.09008), Libo Qin, Wenbo Pan, **Qiguang Chen**, Lizi Liao, Zhou Yu, Yue Zhang, Wanxiang Che, Min Li.
 - ``ACL 2023 (Demo)`` [OpenSLU: A Unified, Modularized, and Extensible Toolkit for Spoken Language Understanding](https://aclanthology.org/2023.acl-demo.9/), Libo Qin\*, **Qiguang Chen**\*, Xiao Xu, Yunlong Feng, Wanxiang Che.
 - ``EMNLP 2022 MMNLU`` <span style="color:red">(Best Paper)</span> [HIT-SCIR at MMNLU-22: Consistency Regularization for Multilingual Spoken Language Understanding](https://aclanthology.org/2022.mmnlu-1.4.pdf), Bo Zheng, Zhouyang Li, Fuxuan Wei, **Qiguang Chen**, Libo Qin, Wanxiang Che.
@@ -45,9 +47,10 @@ Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2
 - ``EMNLP 2021`` [Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System.](https://aclanthology.org/2021.emnlp-main.182.pdf), Libo Qin, Tianbao Xie, Shijue Huang, **Qiguang Chen**, Xiao Xu, Wanxiang Che.
 
 ## Others
-- 🔥 ``Arxiv 2024`` [In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks](https://arxiv.org/abs/2410.01548), Dingzirui Wang, Xuangliang Zhang, **Qiguang Chen**, Longxu Dou, Xiao Xu, Rongyu Cao, Yingwei Ma, Qingfu Zhu, Wanxiang Che, Binhua Li, Fei Huang, Yongbin Li.
+- ``Arxiv 2024`` [In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks](https://arxiv.org/abs/2410.01548), Dingzirui Wang, Xuangliang Zhang, **Qiguang Chen**, Longxu Dou, Xiao Xu, Rongyu Cao, Yingwei Ma, Qingfu Zhu, Wanxiang Che, Binhua Li, Fei Huang, Yongbin Li.
 - ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://arxiv.org/abs/2405.12819), Libo Qin, **Qiguang Chen**, Xiachong Feng, Yang Wu, Yongheng Zhang, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
 - ``CCL 2023`` [Through the Lens of Core Competency: Survey on Evaluation of Large Language Models](https://aclanthology.org/2023.ccl-2.pdf#page=93), Ziyu Zhuang, **Qiguang Chen**, Longxuan Ma, Mingda Li, Yi Han, Yushan Qian, Haopeng Bai, Weinan Zhang, Ting Liu.
+- 🔥 ``Arxiv 2024`` [KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing](https://arxiv.org/abs/2410.18517), Yifei Yang, Zouying Cao, **Qiguang Chen**, Libo Qin, Dongjie Yang, Hai Zhao, Zhi Chen.
 
 # 🛠️ Projects
 - ``MLNLP`` [SimBiber: A tool for simplifying bibtex with official info](https://github.com/MLNLP-World/SimBiber), ![](https://img.shields.io/github/stars/MLNLP-World/SimBiber).
