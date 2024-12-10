@@ -9,6 +9,9 @@
 
 # 📝 Publications
 ## 🎯 Chain-of-Thought & Reasoning
+- 🔥 ``AAAI 2025`` [CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models](https://xxx), Zihui Cheng\*, **Qiguang Chen**\*, Jin Zhang, Hao Fei, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin. <span style="color:gray"><i>(Overall Score: 10, 8, 8, 5)</i></span>
+- 🔥 ``AAAI 2025`` [Divide-Solve-Combine: An Interpretable and Accurate Prompting Framework for Zero-shot Multi-Intent Detection](https://xxx), Libo Qin\*, **Qiguang Chen**\*, Jingxuan Zhou, Jin Wang, Hao Fei, Wanxiang Che, Min Li.
+- 🔥 ``Arxiv 2024`` [In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks](https://arxiv.org/abs/2410.01548), Dingzirui Wang, Xuangliang Zhang, **Qiguang Chen**, Longxu Dou, Xiao Xu, Rongyu Cao, Yingwei Ma, Qingfu Zhu, Wanxiang Che, Binhua Li, Fei Huang, Yongbin Li.
 - 🔥 ``NeurIPS 2024`` <span style="color:red">(Oral, Top 0.5% submitted paper, Top 1.8% accepted paper)</span> [Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought](https://arxiv.org/abs/2410.05695), **Qiguang Chen**, Libo Qin, Jiaqi Wang, Jinxuan Zhou, Wanxiang Che. <span style="color:gray"><i>(Overall Score: 8, 7, 7, 7, 6)</i></span>
 - 🔥 ``Arxiv 2024`` [What are the Essential Factors in Crafting Effective Long Context Multi-Hop Instruction Datasets? Insights and Best Practices](https://arxiv.org/pdf/2409.01893), Zhi Chen\*, **Qiguang Chen**\*, Libo Qin, Qipeng Guo, Haijun Lv, Yicheng Zou, Wanxiang Che, Hang Yan, Kai Chen, Dahua Lin.
 - 🔥 ``Arxiv 2024`` [HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model](https://arxiv.org/pdf/2408.09559), Mengkang Hu, Tianxing Chen, Qiguang Chen, Yao Mu, Wenqi Shao, Ping Luo.
@@ -19,7 +22,8 @@ Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2
 - ``ICLR 2024`` [Tree-Planner: Efficient Close-loop Task Planning with Large Language Models](https://arxiv.org/abs/2310.08582), Mengkang Hu, Yao Mu, Xinmiao Yu, Mingyu Ding, Shiguang Wu, Wenqi Shao, **Qiguang Chen**, Bin Wang, Yu Qiao, Ping Luo.
 
 ## 👀 Multi-Modal Modelling
-- 🔥 ``NeurIPS 2024`` [What Factors Affect Multi-modal In-Context Learning? An In-Depth Exploration](https://xxx), Libo Qin\*, **Qiguang Chen**\*, Hao Fei, Zhi Chen, Min Li, Wanxiang Che.
+- 🔥 ``NeurIPS 2024`` [What Factors Affect Multi-modal In-Context Learning? An In-Depth Exploration](https://openreview.net/forum?id=REVdYKGcfb), Libo Qin\*, **Qiguang Chen**\*, Hao Fei, Zhi Chen, Min Li, Wanxiang Che.
+- 🔥 ``AAAI 2025`` [CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models](https://xxx), Zihui Cheng\*, **Qiguang Chen**\*, Jin Zhang, Hao Fei, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin. <span style="color:gray"><i>(Overall Score: 10, 8, 8, 5)</i></span>
 - ``ToMM 2024`` [S3Agent: Unlocking the Power of VLLM for Zero-Shot Multi-modal Sarcasm Detection](https://dl.acm.org/doi/pdf/10.1145/3690642), Peng Wang, Yongheng Zhang, Hao Fei, **Qiguang Chen**, Yukai Wang, Jiasheng Si, Wenpeng Lu, Min Li, Libo Qin.
 - ``ACL 2024`` <span style="color:red">(Oral, Top 2.31% paper)</span> [M3CoT: A Novel Benchmark for
 Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2024.acl-long.446.pdf), **Qiguang Chen**, Libo Qin, Jin Zhang, Zhi Chen, Xiao Xu, Wanxiang Che. <span style="color:gray"><i>(Overall Score: 4, 4, 4, 4)</i></span>
@@ -36,6 +40,7 @@ Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2
 - ``ACL 2022`` [GL-CLeF: A Global-Local Contrastive Learning Framework for Cross-lingual Spoken Language](https://aclanthology.org/2022.acl-long.191.pdf), Libo Qin, **Qiguang Chen**, Tianbao Xie, Qixin Li, Jian-Guang Lou, Wanxiang Che, Min-Yen Kan.
 
 ## 🎙️ Dialogue System
+- 🔥 ``AAAI 2025`` [Divide-Solve-Combine: An Interpretable and Accurate Prompting Framework for Zero-shot Multi-Intent Detection](https://xxx), Libo Qin\*, **Qiguang Chen**\*, Jingxuan Zhou, Jin Wang, Hao Fei, Wanxiang Che, Min Li.
 - ``Arxiv 2024`` [CroPrompt: Cross-task Interactive Prompting for Zero-shot Spoken Language Understanding](https://arxiv.org/pdf/2406.10505), Libo Qin, Fuxuan Wei, **Qiguang Chen**, Jingxuan Zhou, Shijue Huang, Jiasheng Si, Wenpeng Lu, Wanxiang Che.
 - ``IJCAI 2024`` [Decoupling breaks data barriers: A Decoupled Pre-training Framework for Multi-Intent Spoken Language Understanding](https://aclanthology.org/2024.findings-acl.546.pdf), Libo Qin\*, **Qiguang Chen**\*, Fuxuan Wei, Shijue Huang, Wanxiang Che.
 - ``Arxiv 2024`` [A preliminary evaluation of chatgpt for zero-shot dialogue understanding](https://arxiv.org/abs/2304.04256), Wenbo Pan, **Qiguang Chen**, Xiao Xu, Wanxiang Che, Libo Qin.
@@ -47,7 +52,6 @@ Multi-Domain Multi-step Multi-modal Chain-of-Thought](https://aclanthology.org/2
 - ``EMNLP 2021`` [Don't be Contradicted with Anything! CI-ToD: Towards Benchmarking Consistency for Task-oriented Dialogue System.](https://aclanthology.org/2021.emnlp-main.182.pdf), Libo Qin, Tianbao Xie, Shijue Huang, **Qiguang Chen**, Xiao Xu, Wanxiang Che.
 
 ## Others
-- ``Arxiv 2024`` [In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks](https://arxiv.org/abs/2410.01548), Dingzirui Wang, Xuangliang Zhang, **Qiguang Chen**, Longxu Dou, Xiao Xu, Rongyu Cao, Yingwei Ma, Qingfu Zhu, Wanxiang Che, Binhua Li, Fei Huang, Yongbin Li.
 - ``Arxiv 2024`` [Large Language Models Meet NLP: A Survey](https://arxiv.org/abs/2405.12819), Libo Qin, **Qiguang Chen**, Xiachong Feng, Yang Wu, Yongheng Zhang, Yinghui Li, Min Li, Wanxiang Che, Philip S Yu.
 - ``CCL 2023`` [Through the Lens of Core Competency: Survey on Evaluation of Large Language Models](https://aclanthology.org/2023.ccl-2.pdf#page=93), Ziyu Zhuang, **Qiguang Chen**, Longxuan Ma, Mingda Li, Yi Han, Yushan Qian, Haopeng Bai, Weinan Zhang, Ting Liu.
 - 🔥 ``Arxiv 2024`` [KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing](https://arxiv.org/abs/2410.18517), Yifei Yang, Zouying Cao, **Qiguang Chen**, Libo Qin, Dongjie Yang, Hai Zhao, Zhi Chen.
