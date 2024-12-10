@@ -7,7 +7,7 @@
  * 
 -->
 # 🔥 News
-- *2024.12*: 🎉 Our [CoMT](https://xxx) is accepted by and [DSCP](https://xxx) is accepted by NeurIPS 2024.
+- *2024.12*: 🎉 Our [CoMT](https://xxx) is accepted by and [DSCP](https://xxx) is accepted by AAAI 2025.
 - *2024.09*: 🎉 Our [Reasoning Boundary](https://arxiv.org/abs/2410.05695) is accepted by NeurIPS 2024 (Oral) and [MM-ICL](https://openreview.net/forum?id=REVdYKGcfb) is accepted by NeurIPS 2024.
 - *2024.05*: 🎉 Our [M3CoT](https://aclanthology.org/2024.acl-long.446.pdf) is accepted by ACL 2024 (Oral) and [Auto-CAP](https://aclanthology.org/2024.findings-acl.546.pdf) is accepted by ACL 2024 (Findings).
 - *2024.04*: 🎉 Our [DPF](https://www.ijcai.org/proceedings/2024/0715.pdf) is accepted by IJCAI 2024.
