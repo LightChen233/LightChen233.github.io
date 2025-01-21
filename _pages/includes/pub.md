@@ -9,7 +9,7 @@
 
 # 📝 Publications
 ## 🎯 Chain-of-Thought & Reasoning
-- 🔥 ``AAAI 2025`` [CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models](https://arxiv.org/abs/2412.12932), Zihui Cheng\*, **Qiguang Chen**\*, Jin Zhang, Hao Fei, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin. <span style="color:gray"><i>(Overall Score: 10, 8, 8, 5)</i></span>
+- 🔥 ``AAAI 2025`` <span style="color:red">(Oral)</span> [CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models](https://arxiv.org/abs/2412.12932), Zihui Cheng\*, **Qiguang Chen**\*, Jin Zhang, Hao Fei, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin. <span style="color:gray"><i>(Overall Score: 10, 8, 8, 5)</i></span>
 - 🔥 ``AAAI 2025`` [Divide-Solve-Combine: An Interpretable and Accurate Prompting Framework for Zero-shot Multi-Intent Detection](https://xxx), Libo Qin\*, **Qiguang Chen**\*, Jingxuan Zhou, Jin Wang, Hao Fei, Wanxiang Che, Min Li.
 - 🔥 ``Arxiv 2024`` [In-Context Transfer Learning: Demonstration Synthesis by Transferring Similar Tasks](https://arxiv.org/abs/2410.01548), Dingzirui Wang, Xuangliang Zhang, **Qiguang Chen**, Longxu Dou, Xiao Xu, Rongyu Cao, Yingwei Ma, Qingfu Zhu, Wanxiang Che, Binhua Li, Fei Huang, Yongbin Li.
 - 🔥 ``NeurIPS 2024`` <span style="color:red">(Oral, Top 0.5% submitted paper, Top 1.8% accepted paper)</span> [Unlocking the Capabilities of Thought: A Reasoning Boundary Framework to Quantify and Optimize Chain-of-Thought](https://arxiv.org/abs/2410.05695), **Qiguang Chen**, Libo Qin, Jiaqi Wang, Jinxuan Zhou, Wanxiang Che. <span style="color:gray"><i>(Overall Score: 8, 7, 7, 7, 6)</i></span>
