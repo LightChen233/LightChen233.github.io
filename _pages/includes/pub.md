@@ -9,6 +9,7 @@
 
 # 📝 Publications
 ## 🎯 Chain-of-Thought & Reasoning
+- 🔥 ``Arxiv 2025`` [Towards Reasoning Era: A Survey of Long Chain-of-Thought for Reasoning Large Language Models](https://arxiv.org/abs/2503.09567), **Qiguang Chen**, Libo Qin, Jinhao Liu, Dengyun Peng, Jiannan Guan, Peng Wang, Mengkang Hu, Yuhang Zhou, Te Gao, Wanxiang Che.
 - 🔥 ``Arxiv 2025`` [ECM: A Unified Electronic Circuit Model for Explaining the Emergence of In-Context Learning and Chain-of-Thought in Large Language Model](https://arxiv.org/abs/2502.03325), **Qiguang Chen**, Libo Qin, Jinhao Liu, Dengyun Peng, Jiaqi Wang, Mengkang Hu, Zhi Chen, Wanxiang Che, Ting Liu.
 - 🔥 ``AAAI 2025`` <span style="color:red">(Oral)</span> [CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models](https://arxiv.org/abs/2412.12932), Zihui Cheng\*, **Qiguang Chen**\*, Jin Zhang, Hao Fei, Xiaocheng Feng, Wanxiang Che, Min Li, Libo Qin. 
 - 🔥 ``AAAI 2025`` [Divide-Solve-Combine: An Interpretable and Accurate Prompting Framework for Zero-shot Multi-Intent Detection](https://xxx), Libo Qin\*, **Qiguang Chen**\*, Jingxuan Zhou, Jin Wang, Hao Fei, Wanxiang Che, Min Li.
