@@ -107,3 +107,33 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.conference-tag {
+    background-color: #664eff;
+    color: white;
+    padding: 1px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px // rgba(0,0,0,0.2)
+}
+
+.preprint-tag {
+    background-color: #6c757d;
+    color: white;
+    padding: 1px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px // rgba(0,0,0,0.2)
+}
+
+.reasoning-tag {
+    background-color: #4378e9;
+    color: white;
+    padding: 1px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+    box-shadow: 0 2px 4px // rgba(0,0,0,0.2)
+}
