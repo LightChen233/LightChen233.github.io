@@ -127,7 +127,43 @@ h1:before, .anchor:before {
 }
 
 .reasoning-tag {
-    background-color: #4378e9;
+    background-color: #8ca3d4;
+    color: white;
+    padding: 1px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.multimodal-tag {
+    background-color: #7ab787;
+    color: white;
+    padding: 1px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.multilingual-tag {
+    background-color: #dfbe93;
+    color: white;
+    padding: 1px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.dialog-tag {
+    background-color: #dfacc9;
+    color: white;
+    padding: 1px 8px;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+.other-tag {
+    background-color: #d8d8d8;
     color: white;
     padding: 1px 8px;
     border-radius: 5px;
