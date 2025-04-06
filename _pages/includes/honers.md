@@ -6,7 +6,7 @@
  * @Description: 
  * 
 -->
-<span class='anchor' id='honors'></span>
+<span class='anchor' id='#-honors'></span>
 # 🎖️ Honors
 - National Scholarship, 2024.
 - Tencent Scholarship, 2024.
