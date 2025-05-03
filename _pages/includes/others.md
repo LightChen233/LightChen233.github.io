@@ -12,6 +12,15 @@
 - *2024.07 - 2024.10*, Shanghai AI Laboratory, Shanghai.
 - *2022.06 - 2022.12*, Baidu, Beijing.
 
+# 😊 Undergraduate Collaborators
+I enjoy working with passionate undergraduates who have strong coding/math skills and bring fresh inspiration. If you’re interested in collaborating, please feel free to email me.
+
+Here are the undergraduate collaborators I’ve been fortunate to work with:
+- Wenbo Pan: HIT -> CityUHK
+- Yuhang Zhou: HIT -> FDU
+- Jin Zhang: HIT -> Shanghai AI Lab
+- Zhixiong Zhang: HIT -> Shanghai AI Lab
+
 
 # 🌎 Visitors
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sG3QzVe4peiRhfckvRA21YTB0RhIN4efoodwcdnU0ys&cl=ffffff&w=a"></script>

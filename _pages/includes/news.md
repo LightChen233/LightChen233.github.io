@@ -7,7 +7,7 @@
  * 
 -->
 # 🔥 News
-- *2025.04*:  🎉 Our [MAC-CIToD](xxx) is accepted by IJCAI 2025.
+- *2025.04*:  🎉 Our [MAC-CIToD](xxx) is accepted by IJCAI 2025 and [Safety Residual Space](https://arxiv.org/abs/2502.09674) is accepted by ICML 2025.
 - *2025.03*: 🎉 We public [our survey for Long Chain-of-Thought](https://arxiv.org/abs/2503.09567) with over 900 papers!
 - *2025.02*:  🎉 Our [DivIL](https://openreview.net/forum?id=2Zan4ATYsh) is accepted by TMLR 2025 and [MPFToD](https://link.springer.com/article/10.1007/s11704-024-3778-9) is accepted by FCS 2025.
 - *2024.12*: 🎉 Our [Cro-Prompt](https://arxiv.org/abs/2406.10505) is accepted by ICASSP 2025 and [MBTIBench](https://aclanthology.org/2025.coling-main.339/) is accepted by COLING 2025.
