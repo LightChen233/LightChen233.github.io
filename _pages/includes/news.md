@@ -2,19 +2,20 @@
  * @Author: Qiguang Chen
  * @LastEditors: Qiguang Chen
  * @Date: 2023-10-10 21:30:10
- * @LastEditTime: 2024-12-24 14:17:34
+ * @LastEditTime: 2025-05-19 10:22:15
  * @Description: 
  * 
 -->
 # 🔥 News
-- *2025.04*:  🎉 Our [MAC-CIToD](xxx) is accepted by IJCAI 2025 and [Safety Residual Space](https://arxiv.org/abs/2502.09674) is accepted by ICML 2025.
+- *2025.05*:  🎉 Congratulations to our collaborators! Our 3 works are accepted by **ACL (Main)**, and 3 works are accepted by **ACL (Findings)**.
+- *2025.04*:  🎉 Our [MAC-CIToD](xxx) is accepted by **IJCAI 2025** and [Safety Residual Space](https://arxiv.org/abs/2502.09674) is accepted by **ICML 2025**.
 - *2025.03*: 🎉 We public [our survey for Long Chain-of-Thought](https://arxiv.org/abs/2503.09567) with over 900 papers!
-- *2025.02*:  🎉 Our [DivIL](https://openreview.net/forum?id=2Zan4ATYsh) is accepted by TMLR 2025 and [MPFToD](https://link.springer.com/article/10.1007/s11704-024-3778-9) is accepted by FCS 2025.
-- *2024.12*: 🎉 Our [Cro-Prompt](https://arxiv.org/abs/2406.10505) is accepted by ICASSP 2025 and [MBTIBench](https://aclanthology.org/2025.coling-main.339/) is accepted by COLING 2025.
-- *2024.12*: 🎉 Our [CoMT](https://arxiv.org/abs/2412.12932) is accepted by AAAI 2025 (Oral) and [DSCP](https://xxx) is accepted by AAAI 2025.
-- *2024.09*: 🎉 Our [Reasoning Boundary](https://arxiv.org/abs/2410.05695) is accepted by NeurIPS 2024 (Oral) and [MM-ICL](https://openreview.net/forum?id=REVdYKGcfb) is accepted by NeurIPS 2024.
-- *2024.05*: 🎉 Our [M3CoT](https://aclanthology.org/2024.acl-long.446.pdf) is accepted by ACL 2024 (Oral) and [Auto-CAP](https://aclanthology.org/2024.findings-acl.546.pdf) is accepted by ACL 2024 (Findings).
-- *2024.04*: 🎉 Our [DPF](https://www.ijcai.org/proceedings/2024/0715.pdf) is accepted by IJCAI 2024.
+- *2025.02*:  🎉 Our [DivIL](https://openreview.net/forum?id=2Zan4ATYsh) is accepted by **TMLR 2025** and [MPFToD](https://link.springer.com/article/10.1007/s11704-024-3778-9) is accepted by **FCS 2025**.
+- *2024.12*: 🎉 Our [Cro-Prompt](https://arxiv.org/abs/2406.10505) is accepted by **ICASSP 2025** and [MBTIBench](https://aclanthology.org/2025.coling-main.339/) is accepted by **COLING 2025**.
+- *2024.12*: 🎉 Our [CoMT](https://arxiv.org/abs/2412.12932) is accepted by **AAAI 2025 (Oral)** and [DSCP](https://xxx) is accepted by **AAAI 2025**.
+- *2024.09*: 🎉 Our [Reasoning Boundary](https://arxiv.org/abs/2410.05695) is accepted by **NeurIPS 2024 (Oral)** and [MM-ICL](https://openreview.net/forum?id=REVdYKGcfb) is accepted by **NeurIPS 2024**.
+- *2024.05*: 🎉 Our [M3CoT](https://aclanthology.org/2024.acl-long.446.pdf) is accepted by **ACL 2024 (Oral)** and [Auto-CAP](https://aclanthology.org/2024.findings-acl.546.pdf) is accepted by **ACL 2024 (Findings)**.
+- *2024.04*: 🎉 Our [DPF](https://www.ijcai.org/proceedings/2024/0715.pdf) is accepted by **IJCAI 2024**.
 
 
 <!-- - *2024.01*: 🎉 Our [Tree-Planner](https://arxiv.org/abs/2310.08582) are accepted by ICLR 2024.
