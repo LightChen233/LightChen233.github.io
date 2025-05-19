@@ -7,7 +7,7 @@
  * 
 -->
 # 🔥 News
-- *2025.05*:  🎉 Congratulations to our collaborators! Our 3 works are accepted by **ACL (Main)**, and 3 works are accepted by **ACL (Findings)**.
+- *2025.05*:  🎉 Congratulations to our collaborators! Our 3 works are accepted by **ACL 2025 (Main)**, and 3 works are accepted by **ACL 2025 (Findings)**.
 - *2025.04*:  🎉 Our [MAC-CIToD](xxx) is accepted by **IJCAI 2025** and [Safety Residual Space](https://arxiv.org/abs/2502.09674) is accepted by **ICML 2025**.
 - *2025.03*: 🎉 We public [our survey for Long Chain-of-Thought](https://arxiv.org/abs/2503.09567) with over 900 papers!
 - *2025.02*:  🎉 Our [DivIL](https://openreview.net/forum?id=2Zan4ATYsh) is accepted by **TMLR 2025** and [MPFToD](https://link.springer.com/article/10.1007/s11704-024-3778-9) is accepted by **FCS 2025**.
@@ -15,10 +15,12 @@
 - *2024.12*: 🎉 Our [CoMT](https://arxiv.org/abs/2412.12932) is accepted by **AAAI 2025 (Oral)** and [DSCP](https://xxx) is accepted by **AAAI 2025**.
 - *2024.09*: 🎉 Our [Reasoning Boundary](https://arxiv.org/abs/2410.05695) is accepted by **NeurIPS 2024 (Oral)** and [MM-ICL](https://openreview.net/forum?id=REVdYKGcfb) is accepted by **NeurIPS 2024**.
 - *2024.05*: 🎉 Our [M3CoT](https://aclanthology.org/2024.acl-long.446.pdf) is accepted by **ACL 2024 (Oral)** and [Auto-CAP](https://aclanthology.org/2024.findings-acl.546.pdf) is accepted by **ACL 2024 (Findings)**.
+
+
+
+<!--
 - *2024.04*: 🎉 Our [DPF](https://www.ijcai.org/proceedings/2024/0715.pdf) is accepted by **IJCAI 2024**.
-
-
-<!-- - *2024.01*: 🎉 Our [Tree-Planner](https://arxiv.org/abs/2310.08582) are accepted by ICLR 2024.
+- *2024.01*: 🎉 Our [Tree-Planner](https://arxiv.org/abs/2310.08582) are accepted by ICLR 2024.
 - *2023.10*: 🎉 Our [Cross-lingual Prompting](https://arxiv.org/abs/2310.14799) and [End-to-end Task-oriented Dialogue Survey](https://arxiv.org/abs/2311.09008) are accepted by EMNLP 2023 (Oral).
 - *2023.08*: 🎉Our [survey](https://aclanthology.org/2023.ccl-2.pdf#page=93) about LLM Competency is accepted by CCL 2023.
 - *2023.08*: 🔥 We release [HuoZi](https://github.com/HIT-SCIR/huozi) (⭐️100+)
