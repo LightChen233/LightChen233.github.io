@@ -16,11 +16,11 @@
 I enjoy working with passionate undergraduates who have strong coding/math skills and bring fresh inspiration. If you’re interested in collaborating, please feel free to email me.
 
 Here are the undergraduate collaborators I’ve been fortunate to work with:
-- Wenbo Pan: HIT -> CityUHK
-- Yuhang Zhou: HIT -> FDU
-- Jin Zhang: HIT -> Shanghai AI Lab
-- Zhixiong Zhang: HIT -> Shanghai AI Lab
-
+- Wenbo Pan: HIT -> CityUHK (PhD Stu.)
+- Yuhang Zhou: HIT -> FDU (PhD Stu.)
+- Jin Zhang: HIT -> Shanghai AI Lab (PhD Stu.)
+- Zhixiong Zhang: HIT -> Shanghai AI Lab (PhD Stu.)
+- Jinhao Liu: HIT -> HIT (PhD Stu.)
 
 # 🌎 Visitors
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sG3QzVe4peiRhfckvRA21YTB0RhIN4efoodwcdnU0ys&cl=ffffff&w=a"></script>
