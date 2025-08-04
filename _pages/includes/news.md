@@ -7,6 +7,7 @@
  * 
 -->
 # 🔥 News
+- *2025.07*:  🎉 Congratulations to our collaborators! Our 2 works are accepted by **ACM MM**.
 - *2025.07*:  🎉 We public our [AI4Research Survey](https://arxiv.org/abs/2507.01903) with over 950 papers!
 - *2025.05*:  🎉 Congratulations to our collaborators! Our 3 works are accepted by **ACL 2025 (Main)**, and 3 works are accepted by **ACL 2025 (Findings)**.
 - *2025.04*:  🎉 Our [MAC-CIToD](xxx) is accepted by **IJCAI 2025** and [Safety Residual Space](https://arxiv.org/abs/2502.09674) is accepted by **ICML 2025**.
