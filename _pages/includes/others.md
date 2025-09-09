@@ -19,6 +19,7 @@ I enjoy working with passionate undergraduates who have strong coding/math skill
 
 Here are the undergraduate collaborators I’ve been fortunate to work with:
 - Wenbo Pan: HIT -> CityUHK (PhD Stu.)
+- Yuhang Zhou: HIT -> FDU (Master Stu.)
 - Jin Zhang: HIT -> Shanghai AI Lab (PhD Stu.)
 - Zhixiong Zhang: HIT -> Shanghai AI Lab (PhD Stu.)
 - Jinhao Liu: HIT -> HIT (PhD Stu.)
