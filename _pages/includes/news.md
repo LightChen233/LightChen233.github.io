@@ -7,8 +7,8 @@
  * 
 -->
 # 🔥 News
-- *2025.09*:  🎉 Congratulations to our collaborators! Our [Visual Thoughts](https://arxiv.org/abs/2505.15510) and [Boundary-to-Region](https://arxiv.org/abs/2509.25727) are accepted by **NeurIPS 2025**. And our [Long CoT Survey](https://arxiv.org/abs/2503.09567) are accepted by SCIS 2025.
-- *2025.08*:  🎉 Congratulations to our collaborators! Our [DLPO](https://arxiv.org/abs/2503.13413) are accepted by **EMNLP 2025 (Findings)**. And our [LLM4NLP](https://arxiv.org/abs/2405.12819) survey are accepted by FCS 2025.
+- *2025.09*:  🎉 Congratulations to our collaborators! Our [Visual Thoughts](https://arxiv.org/abs/2505.15510) and [Boundary-to-Region](https://arxiv.org/abs/2509.25727) are accepted by **NeurIPS 2025**. And our [Long CoT Survey](https://arxiv.org/abs/2503.09567) are accepted by **SCIS 2025**.
+- *2025.08*:  🎉 Congratulations to our collaborators! Our [DLPO](https://arxiv.org/abs/2503.13413) are accepted by **EMNLP 2025 (Findings)**. And our [LLM4NLP](https://arxiv.org/abs/2405.12819) survey are accepted by **FCS 2025**.
 - *2025.07*:  🎉 Congratulations to our collaborators! Our 2 works are accepted by **ACM MM**.
 - *2025.07*:  🎉 We public our [AI4Research Survey](https://arxiv.org/abs/2507.01903) with over 950 papers!
 - *2025.05*:  🎉 Congratulations to our collaborators! Our 3 works are accepted by **ACL 2025 (Main)**, and 3 works are accepted by **ACL 2025 (Findings)**.
