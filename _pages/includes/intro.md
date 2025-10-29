@@ -1,4 +1,4 @@
-Hello!😊 I'm a first-year PhD candidate of [Harbin Institute of Technology](http://www.hit.edu.cn/), majoring in Computer Science, at [Computing Faculty](http://cs.hit.edu.cn/).
+Hello!😊 I'm a third-year PhD candidate of [Harbin Institute of Technology](http://www.hit.edu.cn/), majoring in Computer Science, at [Computing Faculty](http://cs.hit.edu.cn/).
 
 My research interests includes Multi-modal, Multi-lingual and Chain-of-Thought Reasoning. If you are seeking any form of **academic cooperation**, please feel free to email me at [charleschen2333@gmail.com](mailto:charleschen2333@gmail.com).
 
