@@ -21,10 +21,14 @@ Here are the undergraduate collaborators I’ve been fortunate to work with:
 - Wenbo Pan: HIT -> CityUHK (PhD Stu.)
 - Yuhang Zhou: HIT -> FDU (Master Stu.)
 - Jin Zhang & Zhixiong Zhang: HIT -> Shanghai AI Lab (PhD Stu.)
+- Yongheng Zhang: AAU -> CSU (Master Stu.)
+- Peng Wang:  AAU -> MUST (Master Stu.)
 - Jinhao Liu: HIT -> HIT (PhD Stu.)
 - Dengyun Peng: HIT (Weihai) -> HIT (Master Stu.)
 - Yiyan Ji: HIT -> NJU (PhD Stu.)
 - Yizhuo Li: HIT -> SJTU (PhD Stu.)
+- Chenyuan Zhang: HIT -> HIT (Shenzhen, PhD Stu.)
+- Qionglin Qiu: CSU -> HIT (Shenzhen, PhD Stu.)
 
 # 🌎 Visitors
 <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=sG3QzVe4peiRhfckvRA21YTB0RhIN4efoodwcdnU0ys&cl=ffffff&w=a"></script>
