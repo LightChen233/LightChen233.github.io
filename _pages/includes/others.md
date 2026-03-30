@@ -10,7 +10,7 @@
 - `Community` MLNLP-2022/2023 Outstanding Organizer.
 
 # 💻 Internships
-- *2025.07 - Now*, ByteDance Seed, Beijing.
+- *2025.07 - 2025.03*, ByteDance Seed, Beijing.
 - *2024.07 - 2024.10*, Shanghai AI Laboratory, Shanghai.
 - *2022.06 - 2022.12*, Baidu, Beijing.
 
