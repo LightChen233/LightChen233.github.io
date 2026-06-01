@@ -7,16 +7,19 @@
  * 
 -->
 # 🔥 News
-- *2025.09*:  🎉 Our 3 works (e.g., [Dr. SAF](ttps://arxiv.org/abs/2508.11582), [Overconfidence](https://arxiv.org/abs/xxx), and [Efficient CoMT]()) are accepted by **AAAI 2026**. And our [Long CoT Survey](https://arxiv.org/abs/2503.09567) wins the **Best Poster Award** in LMG 2025.
+- *2025.05*:  🎉 Our [RBF++](https://arxiv.org/abs/2505.13307) is accepted by **TPAMI 2026 (IF 18+)**. Our [AI4Research Survey](https://arxiv.org/abs/2507.01903) is accepted by SCIS 2026 
+- *2025.04*:  🎉 Our [OMIBench](https://arxiv.org/abs/2604.20806) and [Dashboard2Code]() are accepted by **ACL 2026 (Oral)**. Our [UL-XCoT](https://arxiv.org/abs/2604.20090) is accepted by **ACL 2026**.
+- *2026.02*:  🎉 Congratulations to our collaborators! Our [Think-with-Video](https://arxiv.org/abs/2511.04570) is accepted by **CVPR 2026**.
+- *2026.01*:  🎉 Congratulations to our collaborators! Our [Refusal Index](https://arxiv.org/abs/2510.01782) is accepted by **ICLR 2026**.
+- *2025.09*:  🎉 Our 3 works (e.g., [Dr. SAF](ttps://arxiv.org/abs/2508.11582), [Overconfidence](https://ojs.aaai.org/index.php/AAAI/article/view/40342), and [Efficient CoMT](https://ojs.aaai.org/index.php/AAAI/article/view/40494)) are accepted by **AAAI 2026**. And our [Long CoT Survey](https://arxiv.org/abs/2503.09567) wins the **Best Poster Award** in LMG 2025.
 - *2025.09*:  🎉 Congratulations to our collaborators! Our [Visual Thoughts](https://arxiv.org/abs/2505.15510) and [Boundary-to-Region](https://arxiv.org/abs/2509.25727) are accepted by **NeurIPS 2025**. And our [Long CoT Survey](https://arxiv.org/abs/2503.09567) are accepted by **SCIS 2025**.
 - *2025.08*:  🎉 Congratulations to our collaborators! Our [DLPO](https://arxiv.org/abs/2503.13413) are accepted by **EMNLP 2025 (Findings)**. And our [LLM4NLP](https://arxiv.org/abs/2405.12819) survey are accepted by **FCS 2025**.
 - *2025.07*:  🎉 Congratulations to our collaborators! Our 2 works are accepted by **ACM MM**.
 - *2025.07*:  🎉 We public our [AI4Research Survey](https://arxiv.org/abs/2507.01903) with over 950 papers!
-- *2025.05*:  🎉 Congratulations to our collaborators! Our 3 works are accepted by **ACL 2025 (Main)**, and 3 works are accepted by **ACL 2025 (Findings)**.
+<!-- - *2025.05*:  🎉 Congratulations to our collaborators! Our 3 works are accepted by **ACL 2025 (Main)**, and 3 works are accepted by **ACL 2025 (Findings)**.
 - *2025.04*:  🎉 Our [MAC-CIToD](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/5275.pdf) is accepted by **IJCAI 2025** and [Safety Residual Space](https://arxiv.org/abs/2502.09674) is accepted by **ICML 2025**.
 - *2025.03*: 🎉 We public our [Survey for Long Chain-of-Thought](https://arxiv.org/abs/2503.09567) with over 900 papers!
-
-<!-- - *2025.02*:  🎉 Our [DivIL](https://openreview.net/forum?id=2Zan4ATYsh) is accepted by **TMLR 2025** and [MPFToD](https://link.springer.com/article/10.1007/s11704-024-3778-9) is accepted by **FCS 2025**.
+- *2025.02*:  🎉 Our [DivIL](https://openreview.net/forum?id=2Zan4ATYsh) is accepted by **TMLR 2025** and [MPFToD](https://link.springer.com/article/10.1007/s11704-024-3778-9) is accepted by **FCS 2025**.
 - *2024.12*: 🎉 Our [Cro-Prompt](https://arxiv.org/abs/2406.10505) is accepted by **ICASSP 2025** and [MBTIBench](https://aclanthology.org/2025.coling-main.339/) is accepted by **COLING 2025**.
 - *2024.12*: 🎉 Our [CoMT](https://arxiv.org/abs/2412.12932) is accepted by **AAAI 2025 (Oral)** and [DSCP](https://ojs.aaai.org/index.php/AAAI/article/view/34688) is accepted by **AAAI 2025**. 
 - *2024.09*: 🎉 Our [Reasoning Boundary](https://arxiv.org/abs/2410.05695) is accepted by **NeurIPS 2024 (Oral)** and [MM-ICL](https://openreview.net/forum?id=REVdYKGcfb) is accepted by **NeurIPS 2024**.
