@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Qiguang Chen"
-description              : "PhD Student, SCIR, Harbin Institute of Technology."
+description              : "PhD Candidate · SCIR · Harbin Institute of Technology"
 repository               : "LightChen233/LightChen233.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Qiguang Chen (陈麒光)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SCIR"
+  bio              : "PhD Candidate, Computer Science"
   location         : "Harbin, China"
   employer         :
   pubmed           : 
@@ -37,14 +37,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "LightChen233"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  dblp             : "https://dblp.org/pid/292/9953.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :

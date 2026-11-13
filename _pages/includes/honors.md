@@ -8,13 +8,13 @@
 -->
 <span class='anchor' id='-honors'></span>
 # 🎖️ Honors
-- Baidu Scholarship Nominee (Global Top 20), 2026.
-- Young Elite Scientists Sponsorship Program by CAST (Doctoral Program), 2025.
-- National Scholarship, 2024.
-- Tencent Scholarship, 2024.
-- Graduate Special Scholarship, 2023.
-- Outstanding Graduates, 2023.
-- CCF Excellent College Students Prize (Only 100 CS students in China were invited), 2022.
-- EMNLP MMNLU Workshop **Best Paper**, 2022.
-- **1st place** in MMNLU Workshop Full-shot Setting, 2022.
-- National Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling, China, 2021.
+- <span class="honor-name">Baidu Scholarship Nominee (Global Top 20)</span> <span class="honor-year">2026</span>
+- <span class="honor-name">Young Elite Scientists Sponsorship Program by CAST (Doctoral Program)</span> <span class="honor-year">2025</span>
+- <span class="honor-name">National Scholarship</span> <span class="honor-year">2024</span>
+- <span class="honor-name">Tencent Scholarship</span> <span class="honor-year">2024</span>
+- <span class="honor-name">Graduate Special Scholarship</span> <span class="honor-year">2023</span>
+- <span class="honor-name">Outstanding Graduates</span> <span class="honor-year">2023</span>
+- <span class="honor-name">CCF Excellent College Students Prize (Only 100 CS students in China were invited)</span> <span class="honor-year">2022</span>
+- <span class="honor-name">EMNLP MMNLU Workshop **Best Paper**</span> <span class="honor-year">2022</span>
+- <span class="honor-name">**1st place** in MMNLU Workshop Full-shot Setting</span> <span class="honor-year">2022</span>
+- <span class="honor-name">National Second Prize in Contemporary Undergraduate Mathematical Contest in Modeling, China</span> <span class="honor-year">2021</span>
