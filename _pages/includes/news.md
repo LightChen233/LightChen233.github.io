@@ -15,11 +15,12 @@
 - <span class="news-date">2026.04</span> 🎉 Our [OMIBench](https://arxiv.org/abs/2604.20806) and [Dashboard2Code](https://arxiv.org/abs/2607.04727) are accepted by **ACL 2026 (Oral)**. Our [UL-XCoT](https://arxiv.org/abs/2604.20090) is accepted by **ACL 2026**.
 - <span class="news-date">2026.02</span> 🎉 Congratulations to our collaborators! Our [Think-with-Video](https://arxiv.org/abs/2511.04570) is accepted by **CVPR 2026**.
 - <span class="news-date">2026.01</span> 🎉 Congratulations to our collaborators! Our [Refusal Index](https://arxiv.org/abs/2510.01782) is accepted by **ICLR 2026**.
-- <span class="news-date">2025.09</span> 🎉 Our 3 works (e.g., [Dr. SAF](https://arxiv.org/abs/2508.11582), [Overconfidence](https://ojs.aaai.org/index.php/AAAI/article/view/40342), and [Efficient CoMT](https://ojs.aaai.org/index.php/AAAI/article/view/40494)) are accepted by **AAAI 2026**. And our [Long CoT Survey](https://arxiv.org/abs/2503.09567) wins the **Best Poster Award** in LMG 2025.
+
+<!-- - <span class="news-date">2025.09</span> 🎉 Our 3 works (e.g., [Dr. SAF](https://arxiv.org/abs/2508.11582), [Overconfidence](https://ojs.aaai.org/index.php/AAAI/article/view/40342), and [Efficient CoMT](https://ojs.aaai.org/index.php/AAAI/article/view/40494)) are accepted by **AAAI 2026**. And our [Long CoT Survey](https://arxiv.org/abs/2503.09567) wins the **Best Poster Award** in LMG 2025.
 - <span class="news-date">2025.09</span> 🎉 Congratulations to our collaborators! Our [Visual Thoughts](https://arxiv.org/abs/2505.15510) and [Boundary-to-Region](https://arxiv.org/abs/2509.25727) are accepted by **NeurIPS 2025**. And our [Long CoT Survey](https://arxiv.org/abs/2503.09567) are accepted by **SCIS 2025**.
 - <span class="news-date">2025.08</span> 🎉 Congratulations to our collaborators! Our [DLPO](https://arxiv.org/abs/2503.13413) are accepted by **EMNLP 2025 (Findings)**. And our [LLM4NLP](https://arxiv.org/abs/2405.12819) survey are accepted by **FCS 2026**.
 - <span class="news-date">2025.07</span> 🎉 Congratulations to our collaborators! Our 2 works are accepted by **ACM MM**.
-- <span class="news-date">2025.07</span> 🎉 We published our [AI4Research Survey](https://arxiv.org/abs/2507.01903) with over 950 papers!
+- <span class="news-date">2025.07</span> 🎉 We published our [AI4Research Survey](https://arxiv.org/abs/2507.01903) with over 950 papers! -->
 
 <!-- - *2025.05*:  🎉 Congratulations to our collaborators! Our 3 works are accepted by **ACL 2025 (Main)**, and 3 works are accepted by **ACL 2025 (Findings)**.
 - <span class="news-date">2025.04</span> 🎉 Our [MAC-CIToD](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/5275.pdf) is accepted by **IJCAI 2025** and [Safety Residual Space](https://arxiv.org/abs/2502.09674) is accepted by **ICML 2025**.
