@@ -1,4 +1,9 @@
-<script src="assets/js/main.min.js"></script>
+{% comment %}
+  The page layout is fully custom (see _sass/_awesome.scss + _includes/qc-ui.html),
+  so the theme's bundled jQuery/JS (main.min.js, greedy-nav, sticky sidebar) is not
+  needed. Keeping it caused a recursive updateNav() error with the custom masthead.
+  The Google-Scholar stats widget was never wired up (no google-scholar-stats branch),
+  so its jQuery script was dropped as well.
+{% endcomment %}
 
 {% include analytics.html %}
-{% include fetch_google_scholar_stats.html %}

@@ -6,8 +6,7 @@
  * @Description:
  *
 -->
-# 🔥 News
-- <span class="news-date">2026.11</span> 🎉 I am named a Top-20 nominee of the **2026 Baidu Scholarship**.
+- <span class="news-date is-gold">2026.11</span> 🎉 I am named a Top-20 nominee of the **2026 Baidu Scholarship**.
 - <span class="news-date">2026.08</span> 🎉 We release [VibeLifeBench](https://arxiv.org/abs/2608.10875), a benchmark for proactive and persistent life agents in a living world.
 - <span class="news-date">2026.08</span> 🎉 Our [OffSeeker](https://arxiv.org/abs/2601.18467) is accepted by **EMNLP 2026**, and [Learning the Boundary of Solvability](https://arxiv.org/abs/2512.01661) is accepted by **EMNLP 2026 (Findings)**.
 - <span class="news-date">2026.07</span> 🎉 We release [RSIBench-Data](https://arxiv.org/abs/2607.25886) for benchmarking data-centric research in recursive self-improvement.

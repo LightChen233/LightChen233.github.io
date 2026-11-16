@@ -1,0 +1,112 @@
+<div class="scroll-progress"><span id="scroll-progress-bar"></span></div>
+
+<div class="floating-controls">
+  <button type="button" class="back-to-top" id="back-to-top" title="Back to top" aria-label="Back to top"><i class="fas fa-arrow-up"></i></button>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ---------- accent theme switcher ---------- */
+  var THEMES = ["indigo", "ruby", "ocean", "emerald", "rose", "amber"];
+  var dots = [].slice.call(document.querySelectorAll(".theme-dot"));
+
+  function currentTheme() {
+try {
+  return localStorage.getItem("qc-theme") || "indigo";
+} catch (e) {
+  return "indigo";
+}
+  }
+
+  function applyTheme(name) {
+if (THEMES.indexOf(name) === -1) name = "indigo";
+if (name === "indigo") {
+  document.documentElement.removeAttribute("data-theme");
+} else {
+  document.documentElement.setAttribute("data-theme", name);
+}
+dots.forEach(function (dot) {
+  dot.classList.toggle("active", dot.getAttribute("data-theme") === name);
+});
+try { localStorage.setItem("qc-theme", name); } catch (e) {}
+  }
+
+  dots.forEach(function (dot) {
+dot.addEventListener("click", function () {
+  applyTheme(dot.getAttribute("data-theme"));
+});
+  });
+  applyTheme(currentTheme());
+
+  /* ---------- reading progress ---------- */
+  var bar = document.getElementById("scroll-progress-bar");
+  var toTop = document.getElementById("back-to-top");
+
+  function onScroll() {
+var doc = document.documentElement;
+var max = doc.scrollHeight - window.innerHeight;
+var y = window.pageYOffset || doc.scrollTop;
+var pct = max > 0 ? (y / max) * 100 : 0;
+if (bar) bar.style.width = pct.toFixed(2) + "%";
+if (toTop) toTop.classList.toggle("show", y > 520);
+spy(y);
+  }
+
+  if (toTop) {
+toTop.addEventListener("click", function () {
+  window.scrollTo({ top: 0, behavior: "smooth" });
+});
+  }
+
+  /* ---------- scroll spy on the top nav ---------- */
+  var navLinks = [].slice.call(document.querySelectorAll(".qc-nav a"));
+  var sections = navLinks.map(function (a) {
+var hash = (a.getAttribute("href") || "").split("#")[1];
+return hash ? document.getElementById(hash) : null;
+  });
+
+  /* A section counts as "current" once its anchor line has passed just under
+     the sticky masthead (CSS scroll-margin keeps the heading visible). */
+  var masthead = document.querySelector(".masthead");
+
+  function spy(y) {
+var offset = (masthead ? masthead.offsetHeight : 46) + 96;
+var active = -1;
+for (var i = 0; i < sections.length; i++) {
+  var el = sections[i];
+  if (!el) continue;
+  if (el.getBoundingClientRect().top <= offset) active = i;
+}
+navLinks.forEach(function (a, i) {
+  a.classList.toggle("active", i === active);
+});
+  }
+
+  /* ---------- scroll reveal (progressive enhancement) ---------- */
+  var revealSel = ".section-title, .feature, .award-card, .edu-card, .svc-row, #sec-projects li, #sec-collaborators .info-list li";
+  var revealItems = [].slice.call(document.querySelectorAll(revealSel));
+  if (revealItems.length) {
+    if ("IntersectionObserver" in window) {
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            io.unobserve(entry.target);
+          }
+        });
+      }, { rootMargin: "0px 0px -8% 0px", threshold: 0.05 });
+      revealItems.forEach(function (el, i) {
+        el.classList.add("reveal");
+        el.style.transitionDelay = ((i % 4) * 34) + "ms";
+        io.observe(el);
+      });
+    }
+  }
+
+  window.addEventListener("scroll", onScroll, { passive: true });
+  window.addEventListener("resize", onScroll);
+  onScroll();
+})();
+</script>

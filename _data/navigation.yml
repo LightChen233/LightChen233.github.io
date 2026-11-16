@@ -1,10 +1,13 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#sec-about-me"
+  - title: "About"
+    url: "/#about-me"
 
   - title: "News"
     url: "/#sec-news"
+
+  - title: "Work"
+    url: "/#sec-work"
 
   - title: "Publications"
     url: "/#sec-publications"
@@ -15,5 +18,5 @@ main:
   - title: "Honors"
     url: "/#sec-honors"
 
-  - title: "Experience"
-    url: "/#sec-experience"
+  - title: "Education"
+    url: "/#sec-education"

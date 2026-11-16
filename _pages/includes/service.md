@@ -1,6 +1,38 @@
-# 🤗 Community Services
-
-- `NLP Reviewer` ACL 2024-2025 ARR, EMNLP 2024-2025 ARR, NAACL 2024-2025 ARR, NLPCC 2024-2025, IEEE/ACM Transactions on Audio, Speech, and Language Processing (Q1; IF: 5.1).
-- `ML Reviewer` Neurips 2024-2025, ICLR 2025-2026, ICML 2025.
-- `AI Reviewer` **Nature Machine Intelligence**, AAAI 2026, ACM MM 2025, Information Sciences (Q1; IF: 6.8), Neurocomputing (Q1; IF: 6.5), PeerJ Computer Science (Q2; IF 2.5).
-- `Community` MLNLP-2022/2023 Outstanding Organizer.
+<div class="svc">
+<div class="svc-row">
+<div class="svc-label">NLP Reviewer</div>
+<div class="svc-chips">
+  <span class="svc-chip">ACL ARR 2024–2025</span>
+  <span class="svc-chip">EMNLP ARR 2024–2025</span>
+  <span class="svc-chip">NAACL ARR 2024–2025</span>
+  <span class="svc-chip">NLPCC 2024–2025</span>
+  <span class="svc-chip">IEEE/ACM TASLP</span>
+</div>
+</div>
+<div class="svc-row">
+<div class="svc-label">ML Reviewer</div>
+<div class="svc-chips">
+  <span class="svc-chip">NeurIPS 2024–2025</span>
+  <span class="svc-chip">ICLR 2025–2026</span>
+  <span class="svc-chip">ICML 2025</span>
+</div>
+</div>
+<div class="svc-row">
+<div class="svc-label">AI Reviewer</div>
+<div class="svc-chips">
+  <span class="svc-chip is-hl">Nature Machine Intelligence</span>
+  <span class="svc-chip">AAAI 2026</span>
+  <span class="svc-chip">ACM MM 2025</span>
+  <span class="svc-chip">Information Sciences</span>
+  <span class="svc-chip">Neurocomputing</span>
+  <span class="svc-chip">PeerJ Computer Science</span>
+</div>
+</div>
+<div class="svc-row">
+<div class="svc-label">Community</div>
+<div class="svc-chips">
+  <span class="svc-chip is-gold">MLNLP 2022/2023 Outstanding Organizer</span>
+  <span class="svc-chip">Deputy Secretary-General, MLNLP</span>
+</div>
+</div>
+</div>
